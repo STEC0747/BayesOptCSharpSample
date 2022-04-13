@@ -7,8 +7,8 @@ https://zenn.dev/midoliy/articles/9e3cff958ff89ba151de
 ・NuGet Package Manager
   
 Nuget追加
-　コマンドパレットからNuget Add Packegeを実行する。
-　"sharpl"と入力して一覧から以下のPackegeを追加する。
+　コマンドパレットからNuget Add Packageを実行する。
+　"sharpl"と入力して一覧から以下のPackageを追加する。
 　・SharpLearning.
     Containers
     Common.interfaces
