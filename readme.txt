@@ -1,5 +1,6 @@
-「VSCodeでの環境設定」
+当コードはC#でベイズ最適化を実装した最小コードです。
 
+「VSCodeでの環境設定」
 https://zenn.dev/midoliy/articles/9e3cff958ff89ba151de
 このリンクを参考にプロジェクト作成する。
 
